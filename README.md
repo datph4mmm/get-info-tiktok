@@ -4,4 +4,7 @@ TikTok is one of the bug bounty programs I participate in. I wrote this code so 
 This feature will help you obtain the Secuid, Uid, and RoomId parameters of any user.
 
 
-demo: datph4m.edu.vn/tools/info.html
+Demo: https://datph4m.edu.vn/tools/info.html
+
+
+![image](https://github.com/user-attachments/assets/93286339-98b2-485c-acd5-c327e4360e36)
